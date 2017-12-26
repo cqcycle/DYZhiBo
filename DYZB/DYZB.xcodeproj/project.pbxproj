@@ -72,61 +72,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		EB8AA3FE1F73B16800134E26 /* classes */ = {
-			isa = PBXGroup;
-			children = (
-				EB8AA4001F73B16800134E26 /* Home-首页 */,
-				EB8AA4031F73B16800134E26 /* Profile-我 */,
-				EB8AA3FF1F73B16800134E26 /* Follow-关注 */,
-				EB8AA4011F73B16800134E26 /* Live-直播 */,
-				EB8AA4021F73B16800134E26 /* Main */,
-				EB8AA4041F73B16800134E26 /* Tools */,
-			);
-			path = classes;
-			sourceTree = "<group>";
-		};
-		EB8AA3FF1F73B16800134E26 /* Follow-关注 */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "Follow-关注";
-			sourceTree = "<group>";
-		};
-		EB8AA4001F73B16800134E26 /* Home-首页 */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "Home-首页";
-			sourceTree = "<group>";
-		};
-		EB8AA4011F73B16800134E26 /* Live-直播 */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "Live-直播";
-			sourceTree = "<group>";
-		};
-		EB8AA4021F73B16800134E26 /* Main */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Main;
-			sourceTree = "<group>";
-		};
-		EB8AA4031F73B16800134E26 /* Profile-我 */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = "Profile-我";
-			sourceTree = "<group>";
-		};
-		EB8AA4041F73B16800134E26 /* Tools */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Tools;
-			sourceTree = "<group>";
-		};
 		EBA30B411F6A2CFA00F6C733 = {
 			isa = PBXGroup;
 			children = (
@@ -150,7 +95,6 @@
 		EBA30B4C1F6A2CFA00F6C733 /* DYZB */ = {
 			isa = PBXGroup;
 			children = (
-				EB8AA3FE1F73B16800134E26 /* classes */,
 				EBA30B4D1F6A2CFA00F6C733 /* AppDelegate.swift */,
 				EBA30B511F6A2CFA00F6C733 /* Main.storyboard */,
 				EBA30B541F6A2CFA00F6C733 /* Assets.xcassets */,
